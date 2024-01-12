@@ -1,0 +1,133 @@
+name: Camera_Control
+widgets:
+- height: 3
+  height_mobile: 3
+  name: Pictures per Minute
+  options:
+    max: 30
+    min: 1
+    showThing: false
+    vertical: false
+  type: Slider
+  variables:
+  - thing_id: CAMERA_THING
+    variable_id: dBPicturesPerMinute
+  width: 8
+  width_mobile: 8
+  x: 0
+  x_mobile: 0
+  "y": 7
+  y_mobile: 7
+- height: 3
+  height_mobile: 3
+  name: Ready/Busy
+  options:
+    mode: Icons
+  type: Status
+  variables:
+  - thing_id: CAMERA_THING
+    variable_id: dBSysidle
+  width: 2
+  width_mobile: 2
+  x: 6
+  x_mobile: 6
+  "y": 3
+  y_mobile: 3
+- height: 3
+  height_mobile: 3
+  name: 0=Picture <<   Image mode  >>Video=1
+  options:
+    max: 1
+    min: 0
+  type: Slider
+  variables:
+  - thing_id: CAMERA_THING
+    variable_id: dBImageMode
+  width: 6
+  width_mobile: 6
+  x: 0
+  x_mobile: 0
+  "y": 3
+  y_mobile: 3
+- height: 3
+  height_mobile: 3
+  name: Save Changes
+  options:
+    frameless: false
+    showThing: false
+  type: Push Button
+  variables:
+  - thing_id: CAMERA_THING
+    variable_id: dBSaveChanges
+  width: 3
+  width_mobile: 3
+  x: 2
+  x_mobile: 2
+  "y": 0
+  y_mobile: 0
+- height: 3
+  height_mobile: 3
+  name: Videos per minute
+  options:
+    max: 8
+    min: 1
+    showThing: false
+    vertical: false
+  type: Slider
+  variables:
+  - thing_id: CAMERA_THING
+    variable_id: dBVideosPerMinute
+  width: 8
+  width_mobile: 8
+  x: 0
+  x_mobile: 0
+  "y": 11
+  y_mobile: 11
+- height: 3
+  height_mobile: 3
+  name: Video Length in Seconds
+  options:
+    max: 48
+    min: 5
+    vertical: false
+  type: Slider
+  variables:
+  - thing_id: CAMERA_THING
+    variable_id: dBVideoLength
+  width: 8
+  width_mobile: 8
+  x: 0
+  x_mobile: 0
+  "y": 15
+  y_mobile: 14
+- height: 3
+  height_mobile: 3
+  name: Power
+  options:
+    mode: Color 2
+  type: LED
+  variables:
+  - thing_id: CAMERA_THING
+    variable_id: dBBlinkPower
+  width: 2
+  width_mobile: 2
+  x: 0
+  x_mobile: 0
+  "y": 0
+  y_mobile: 0
+- height: 3
+  height_mobile: 3
+  name: Saved
+  options:
+    mode: Icons
+  type: Status
+  variables:
+  - thing_id: CAMERA_THING
+    variable_id: dBSaved
+  width: 3
+  width_mobile: 3
+  x: 5
+  x_mobile: 5
+  "y": 0
+  y_mobile: 0
+
