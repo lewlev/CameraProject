@@ -17,9 +17,14 @@ This project is an add on to Alarm Project Part 1, alarm controller.
 * To capture and store videos or still images when triggered by an alarm.
 * To upload all images/videos to cloud .
 * Be capable of receiving firmware updates via Wi-Fi, known as  over the air (OTA).
+
+
+
 For the full project description have a look at:
 
 https://github.com/lewlev/CameraProject/blob/main/Camera_%20project%20_description_V1.3.pdf
+
+
 
 
 Full description source and documentation in Pack2.zip here
