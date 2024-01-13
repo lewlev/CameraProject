@@ -12,12 +12,11 @@ This project is an add on to Alarm Project Part 1, alarm controller.
 
 **System design requirements:**
 * Be powered from the exiting alarm system via PIR wiring.
-* Be powered from the exiting alarm system via PIR wiring.
 * Use a mobile phone for all control and monitoring from anywhere.
 * Connect to an internet based IoT service for monitoring, control, and communication with other IoT Devices.
 * To capture and store videos or still images when triggered by an alarm.
 * To upload all images/videos to cloud .
 * Be capable of receiving firmware updates via Wi-Fi, known as  over the air (OTA).
-![alt-text](https://drive.google.com/uc?export=view&id=1BCPwE3VEQndMPL4kCcPv8ZIGEVcmIxpj)
+For the full project description have a look at:
 
-https://drive.google.com/uc?export=view&id=1BCPwE3VEQndMPL4kCcPv8ZIGEVcmIxpj
+https://github.com/lewlev/CameraProject/blob/main/Camera_%20project%20_description_V1.3.pdf
