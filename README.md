@@ -20,3 +20,11 @@ This project is an add on to Alarm Project Part 1, alarm controller.
 For the full project description have a look at:
 
 https://github.com/lewlev/CameraProject/blob/main/Camera_%20project%20_description_V1.3.pdf
+
+
+Full description source and documentation in Pack2.zip here
+
+https://github.com/lewlev/CameraProject/blob/main/Pack2.zip
+
+Download and extract to c:\Camera\project 
+
