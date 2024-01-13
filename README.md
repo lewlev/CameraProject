@@ -1,7 +1,6 @@
-# CameraProject
-Alarm project part II camera add on.
-# **Alarm Project**
-## Part II Camera Control
+# **Camera Project**
+
+## Alarm Project Part II Camera Control
 **Project objective**
 
 To create a low-cost security camera that can be triggered wirelessly from an alarm system to capture either video or a series of stills, store them locally and then upload to cloud storage.
