@@ -1,6 +1,5 @@
 # CameraProject
- Alarm project part II camera add on
-
+Alarm project part II camera add on.
 # **Alarm Project**
 ## Part II Camera Control
 **Project objective**
@@ -9,7 +8,7 @@ To create a low-cost security camera that can be triggered wirelessly from an al
 
 **Background**
 
-This project is an add on to Alarm Project Part 1, alarm controller .
+This project is an add on to Alarm Project Part 1, alarm controller.
 
 **System design requirements:**
 * Be powered from the exiting alarm system via PIR wiring.
@@ -19,5 +18,6 @@ This project is an add on to Alarm Project Part 1, alarm controller .
 * To capture and store videos or still images when triggered by an alarm.
 * To upload all images/videos to cloud .
 * Be capable of receiving firmware updates via Wi-Fi, known as  over the air (OTA).
+![alt-text](https://drive.google.com/uc?export=view&id=1BCPwE3VEQndMPL4kCcPv8ZIGEVcmIxpj)
 
-![alt-text](https://drive.google.com/uc?export=view&id=1xvxPaIFM7Y4SWWg71v6HVTWMzqxlHInq)
+https://drive.google.com/uc?export=view&id=1BCPwE3VEQndMPL4kCcPv8ZIGEVcmIxpj
