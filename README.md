@@ -1,4 +1,4 @@
-# **Camera Project**
+# **ESP32-cam Security Camera Project **
 
 ## Alarm Project Part II Camera Control
 **Project objective**
@@ -13,9 +13,9 @@ This project is an add on to Alarm Project Part 1, alarm controller.
 * Be powered from the exiting alarm system via PIR wiring.
 * Use a mobile phone for all control and monitoring from anywhere.
 * Connect to an internet based IoT service for monitoring, control, and communication with other IoT Devices.
-* To capture and store videos or still images when triggered by an alarm.
-* To upload all images/videos to cloud .
-* Be capable of receiving firmware updates via Wi-Fi, known as  over the air (OTA).
+* To capture and store videos or still images when triggered by an alarm to SD card.
+* To upload all images/videos to Google Drive.
+
 
 
 
